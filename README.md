@@ -11,5 +11,5 @@ Static Background
 Thresholding and Detection
 
 # Demo
-!Demo 1: (demo/demo11.gif)
-!Demo 2: (demo/demo22.gif)
+![Demo 1: ](demo/demo11.gif)
+![Demo 2: ](demo/demo22.gif)
