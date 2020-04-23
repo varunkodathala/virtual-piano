@@ -7,6 +7,11 @@ Virtual Piano built with Image Processing Techniques
 # Requirement
 Static Background
 
+# Modules:
+1.numpy. (pip install numpy)
+2.pyaudio (pip install pyaudio)
+3.opencv (pip install opencv-python) (brew install opencv)
+
 # Operations
 Thresholding and Detection
 
